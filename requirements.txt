@@ -1,1 +1,3 @@
 commonocean-io
+matplotlib
+numpy
